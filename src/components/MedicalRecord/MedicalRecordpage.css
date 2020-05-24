@@ -1,0 +1,18 @@
+.MedicialRecordpage {
+    display: flex;
+    justify-content: center;
+}
+
+.vertical-center {
+    position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%) 
+}
+
+.Panel {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 25px;
+}
